@@ -21,7 +21,7 @@ Problem Solving | Data Structures & Algorithms | Competitive Programming
 ---
 
 ## 📈 GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityahatake&show_icons=true&theme=radical)  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityahatake&show_icons=true&theme=radical&cache_seconds=60)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityahatake&layout=compact&theme=radical)  
 
