@@ -151,6 +151,6 @@ I'm actively seeking **AI/ML Engineer** and **Full Stack Developer** opportuniti
 
 **⭐ If you like my work, consider giving my repositories a star! It helps others discover my projects.**
 
-Made with 💙 by Aditya Daksh
+
 
 </div>
